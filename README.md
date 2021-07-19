@@ -1,3 +1,3 @@
 # coursera-test
-Coursera test repository
-A Test md page
+This is Coursera test repository with a Test html landing page
+Getting started on front end
